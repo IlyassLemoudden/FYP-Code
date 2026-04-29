@@ -50,7 +50,7 @@ ORANGE = (255, 165, 0)
 # Two keys are provided (one commented out) for manual switching if quota is exceeded.
 # To switch keys, comment out the current key and uncomment the backup key.
 
-# Primary Gemini API Key - replace with your actual API key from Google AI Studio
+# Primary Gemini API Key
 API_KEY = "AIzaSyDt4GYLHsd21fTuPaEds_fkO0MNp7YBrlo"
 
 # Backup API key (commented out - uncomment to use if primary key quota is exhausted)
